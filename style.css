@@ -1,0 +1,39 @@
+        @import url("https://fonts.googleapis.com/css2?family=Lora:ital@1&display=swap");
+
+        
+
+        .container {
+        width: 95%;
+        margin: auto;
+        /* display: flex; */
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        }
+
+        p{
+        font-family: "Lora", serif;
+        text-align: center;
+        text-transform: capitalize;
+        font-size: 24px;
+        }
+
+        #keysContainer {
+        width: 100%;
+        text-align: center;
+        }
+
+        h1 {
+        text-align: center;
+        text-transform: capitalize;
+        font-family: "Lora", serif;
+        font-size: 105px;
+        }
+        
+        
+        h3{
+        text-align: center;
+        text-transform: capitalize;
+        font-family: "Lora", serif;
+        font-size: 40px;
+        }
